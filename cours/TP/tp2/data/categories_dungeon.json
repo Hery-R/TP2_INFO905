@@ -1,0 +1,59 @@
+{
+  "monster": [
+    "Rat",
+    "Gobelin",
+    "Orc",
+    "Squelette",
+    "Zombie",
+    "Troll",
+    "Loup_Garou",
+    "Spectre",
+    "Araignee_Geante",
+    "Minotaure"
+  ],
+  "boss": [
+    "Dragon",
+    "Liche",
+    "Demon",
+    "Hydre"
+  ],
+  "healing": [
+    "Potion",
+    "Grande_Potion",
+    "Feu_de_Camp",
+    "Fontaine_Sacree",
+    "Repas",
+    "Benediction"
+  ],
+  "trap": [
+    "Piege_a_Pics",
+    "Fleches_Empoisonnees",
+    "Fosse",
+    "Gaz_Toxique",
+    "Rocher_Roulant",
+    "Dalle_Piege",
+    "Nuage_Toxique"
+  ],
+  "treasure": [
+    "Coffre",
+    "Gemmes",
+    "Or",
+    "Relique"
+  ],
+  "neutral": [
+    "Coffre_Vide",
+    "Couloir",
+    "Salle_Vide",
+    "Inscription",
+    "Statue",
+    "Escalier",
+    "Entree",
+    "Sortie"
+  ],
+  "special": [
+    "Amulette_Protection",
+    "Armure_Ancienne",
+    "Epee_Legendaire",
+    "Anneau_de_Vie"
+  ]
+}

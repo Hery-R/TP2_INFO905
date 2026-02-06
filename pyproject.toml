@@ -1,0 +1,24 @@
+[project]
+name = "deep-4-all"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.12.0",
+    "bitsandbytes>=0.49.1",
+    "datasets>=4.5.0",
+    "gradio>=6.3.0",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.5.2",
+    "jupyterlab-lsp>=5.2.0",
+    "marimo[mcp,recommended]>=0.19.2",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "plotly>=6.5.2",
+    "python-lsp-server[all]>=1.14.0",
+    "scikit-learn>=1.8.0",
+    "sentencepiece>=0.2.1",
+    "transformers>=4.57.5",
+]
